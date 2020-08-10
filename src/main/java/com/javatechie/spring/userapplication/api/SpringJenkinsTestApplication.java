@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringJenkinsTestApplication {
- //Logger logger=LoggerFactory.getLogger(SpringJenkinsTestApplication.class);
+ Logger logger=LoggerFactory.getLogger(SpringJenkinsTestApplication.class);
 	public static void main(String[] args) {
 		SpringApplication.run(SpringJenkinsTestApplication.class, args);
 	}
