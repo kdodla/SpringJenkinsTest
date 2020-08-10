@@ -17,7 +17,7 @@ public class SpringJenkinsTestApplication {
 	public void printData()
 	{
 		logger.info("I am in printData");
-		
+		logger.info("I am in printData");
 	}
 
 }
