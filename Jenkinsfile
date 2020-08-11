@@ -29,7 +29,7 @@ pipeline
       
           steps{
             
-                bat 'mvn deploy'
+                bat 'mvn clean deploy'
              
             }
       
