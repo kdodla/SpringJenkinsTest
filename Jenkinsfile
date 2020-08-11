@@ -4,7 +4,7 @@ pipeline
   
   stages{
      tools {
-        maven 'Maven_3.5.2' 
+        maven 'Maven_3.6.3' 
     }
       stage('Compile Stage'){
       
