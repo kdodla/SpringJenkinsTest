@@ -15,7 +15,7 @@ class SpringJenkinsTestApplicationTests {
 	@Test
 	public void contextLoads() {
        logger.info("I am in SpringJenkinsTestApplicationTests");
-       logger.info("I am in SpringJenkinsTestApplicationTests 111");
+       
        logger.info("I am in SpringJenkinsTestApplicationTests 1111");
        assertEquals(true, true);
 	}
